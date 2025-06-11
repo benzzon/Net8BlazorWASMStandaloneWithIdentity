@@ -1,6 +1,6 @@
 # Net8BlazorWASMStandaloneWithIdentity
 Copy of https://github.com/dotnet/blazor-samples/tree/main/8.0/BlazorWebAssemblyStandaloneWithIdentity
-
+ (see also https://www.bytefish.de/blog/blazor_wasm_cookie_authentication.html)
 
 # Standalone Blazor WebAssembly with ASP.NET Core Identity
 
